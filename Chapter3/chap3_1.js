@@ -16,7 +16,7 @@ function List() {
    this.currPos = currPos;
    this.moveTo = moveTo;
    this.getElement = getElement;
-   this.length = length;
+  
 }
 
 function append(element) {
